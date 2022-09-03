@@ -4,7 +4,7 @@
 
 This project requires **JDK 16.x** and the following java library installed:
 
-- [javaFX 16]
+- javaFX 16
 
 ### content
 `small games` folder contains the source code for 5 mini games
