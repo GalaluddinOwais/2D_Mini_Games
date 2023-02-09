@@ -1,3 +1,6 @@
+![joined-all_Ya4AQyvj](https://user-images.githubusercontent.com/111979327/217780557-62d831fc-c847-40ef-95a9-46cfa87223ea.gif)
+
+
 ## Project: Collection of 2D Mini Games
 
 ### Install
@@ -24,4 +27,3 @@ In a terminal or command window, navigate to the `small games` directory and run
 
 javac [name of the game to launch.java]
 
-![joined-all_Ya4AQyvj](https://user-images.githubusercontent.com/111979327/217780557-62d831fc-c847-40ef-95a9-46cfa87223ea.gif)
