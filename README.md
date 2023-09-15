@@ -1,7 +1,7 @@
 
 
 # About the project
-#### This project aims to build a model to predict whether it will rain the next day given weather information about the current day
+#### This project introduces a collection challenging simple games 
 
 # Key Achievements
 * Animated and modified shapes by utilizing sequenced frames
