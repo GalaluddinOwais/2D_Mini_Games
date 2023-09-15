@@ -23,7 +23,7 @@ javac [name of the game to launch].java
 ```
 
 # Demonstration
-#### [Google drive link] (https://drive.google.com/file/d/1_OjO6uLRwX4qz1rPmoT0LpuOzXmXFH20/view)
+#### [Google drive link](https://drive.google.com/file/d/1_OjO6uLRwX4qz1rPmoT0LpuOzXmXFH20/view)
 
 ![joined-all_Ya4AQyvj](https://user-images.githubusercontent.com/111979327/217780557-62d831fc-c847-40ef-95a9-46cfa87223ea.gif)
 
