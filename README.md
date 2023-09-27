@@ -8,10 +8,11 @@
 * Captured and controlled positions of shapes by tracking mouse axis at each frame
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
   * Short-Term Memory
+  * Rainball
   * Ganglia Reflex
   * Precision-Guided Missile
   * Tight Marking
-  * Rainball
+  
 
 # Requirements
 `Java` `JavaFX 16`
