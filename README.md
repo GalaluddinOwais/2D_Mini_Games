@@ -9,9 +9,9 @@
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
   * Short-Term Memory
   * Ganglia Reflex
-  * Eater
-  * Dodge
-  * Collector
+  * Precision-Guided Missile
+  * Tight Marking
+  * Rainball
 
 # Requirements
 `Java` `JavaFX 16`
@@ -23,7 +23,6 @@ javac [name of the game to launch].java
 ```
 
 # Demonstration
-#### [Google drive link](https://drive.google.com/file/d/1_OjO6uLRwX4qz1rPmoT0LpuOzXmXFH20/view)
+#### [Google drive link](https://drive.google.com/file/d/1JdI-cHHon9IWdEWzJvYYCBtAfcIw-Qbr/view?usp=sharing)
 
-![joined-all_Ya4AQyvj](https://user-images.githubusercontent.com/111979327/217780557-62d831fc-c847-40ef-95a9-46cfa87223ea.gif)
-
+![ezgif com-crop](https://github.com/GalaluddinOwais/2D_Mini_Games/assets/111979327/5b8e2a4a-f5a1-4048-9899-5205403ece13)
