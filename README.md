@@ -1,14 +1,14 @@
 
 
 # About the project
-#### This project introduces a collection challenging simple games 
+#### This project introduces a collection of challenging simple games 
 
 # Key Achievements
 * Animated and modified shapes by utilizing sequenced frames
 * Captured and controlled positions of shapes by tracking mouse axis at each frame
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
-  * Active Memory
-  * Ganglionic
+  * Short-Term Memory
+  * Ganglia Reflex
   * Eater
   * Dodge
   * Collector
