@@ -9,7 +9,7 @@
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
   * Short-Term Memory
   * Rainball
-  * Tight Marking
+  * Tight Marking The Dodger
   * Precision-Guided Missile
   * Ganglia Reflex
 
