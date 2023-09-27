@@ -9,10 +9,9 @@
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
   * Short-Term Memory
   * Rainball
-  * Ganglia Reflex
   * Precision-Guided Missile
   * Tight Marking
-  
+  * Ganglia Reflex
 
 # Requirements
 `Java` `JavaFX 16`
