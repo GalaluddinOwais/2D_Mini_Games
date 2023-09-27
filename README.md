@@ -9,8 +9,8 @@
 * Created sense of control and challenge in different ways to introduce the follwong mini-games
   * Short-Term Memory
   * Rainball
-  * Precision-Guided Missile
   * Tight Marking
+  * Precision-Guided Missile
   * Ganglia Reflex
 
 # Requirements
